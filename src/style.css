@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(56, 174, 75);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+div.buttons {
+    width: 100%;
+
+}
+
+div.center-buttons {
+    text-align: center;
+
+}
+
+button {
+    background-color: rgb(198, 204, 208);
+    border-radius: 8px;
+}
+  
